@@ -1,1 +1,2 @@
-# Scikit-learn-PE
+# scikit-learn-PE
+Clustering PE by scikit-learn
